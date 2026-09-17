@@ -2,5 +2,5 @@
   "latest_version": "0.2",
   "download_url": "https://drive.proton.me/urls/H62TP606PR#qwOlRMCPY9In",
   "sha256": "1dadcdb42a7d90d7656d0c9a2736adffbfb085d1697109dbabcb682a3b03ad27",
-  "notes": "Dodano bezpieczny mechanizm aktualizacji programu."
+  "notes": "Aktualizator sprawdzi, czy masz najnowszą wersję."
 }
