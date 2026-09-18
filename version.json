@@ -1,6 +1,6 @@
 {
   "latest_version": "0.2.2",
-  "download_url": "https://github.com/serniko-raffaello/formatnik-public/releases/latest",
+  "download_url": "https://github.com/serniko-raffaello/formatnik-public/releases/latest/download/formatnik-v0.2.2.zip",
   "sha256": "80c339a04113088870ec524933de796f760d94793bed1a250a78436f7416663b",
   "notes": "- Poprawki wielkości okien i ich proporcji, by uniknąć ucinania tekstów.\n- Fix: błąd w pliku `teksty.txt` powodował, że teksty menu zawsze wracały do wartości domyślnych, zamiast być brane z pliku.\n- Nie można już wielokrotnie otworzyć okna `O programie`."
 }
