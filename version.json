@@ -1,6 +1,6 @@
 {
-  "latest_version": "0.2",
-  "download_url": "https://drive.proton.me/urls/H62TP606PR#qwOlRMCPY9In",
-  "sha256": "1dadcdb42a7d90d7656d0c9a2736adffbfb085d1697109dbabcb682a3b03ad27",
-  "notes": "Aktualizator sprawdzi, czy masz najnowszą wersję."
+  "latest_version": "0.2.2",
+  "download_url": "https://drive.proton.me/urls/W3W3KXW18C#5RnAJU9oJdl4",
+  "sha256": "80c339a04113088870ec524933de796f760d94793bed1a250a78436f7416663b",
+  "notes": "- Poprawki wielkości okien i ich proporcji, by uniknąć ucinania tekstów.\n- Fix: błąd w pliku `teksty.txt` powodował, że teksty menu zawsze wracały do wartości domyślnych, zamiast być brane z pliku.\n- Nie można już wielokrotnie otworzyć okna `O programie`."
 }
